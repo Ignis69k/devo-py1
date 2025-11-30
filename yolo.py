@@ -1,2 +1,4 @@
 print('hello')
-print('helo')
+print('Yelo')
+print('aww')
+print('Thanatos')
